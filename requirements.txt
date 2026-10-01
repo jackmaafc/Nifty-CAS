@@ -1,0 +1,13 @@
+# Nifty CAS — CE-PE Mispricing Research Terminal
+# Pinned versions — do not use loose ranges
+
+# Core Data Stack
+polars==1.44.2
+plotly==7.1.0
+dash==4.4.1
+
+# API integration — v2.2.0 uses DhanContext interface (current stable)
+dhanhq==2.2.0
+
+# Environment
+python-dotenv==1.2.4

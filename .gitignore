@@ -1,0 +1,16 @@
+# Secrets & credentials
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Data files (generated, not tracked)
+data/db/
+data/raw/
+data/processed/
+reports/
